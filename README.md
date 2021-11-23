@@ -1,7 +1,7 @@
 # Drone
 ******************************************************Projet Fin d’études******************************************************************
 Construction et mise au point d’un drone open source KIT-HGDRONE K66
-*******************************************************************************************************************************************
+
 Aperçu :
 Le kit de drone Hove Games est une plate-forme de développement NXP unique, modulaire et flexible avec l’Unité de gestion de vol RDDRONE-FMUK66 à sa base. Il peut être utilisé pour construire n'importe quel véhicule autonome, des drones aux revers en passant par les voitures volantes. 
 Ce kit contient un drone de référence complet y compris l'unité de gestion de vol (FMU66).
