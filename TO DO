@@ -1,0 +1,15 @@
+*****************************************************TO DO ****************************************************************
+
+-Réalisation d'un cahier de charge 
+-Faire le montage du drone 
+-Télécharger les softwares nécessaires au fonctionnement du drone.
+-Installation d'un simulateur de vol 
+-Calibration des capteurs et de la manette
+-Tester le fonctionnement des moteurs
+-Tester le drone avec des exemples fournis par le constructeur.
+-Tester le drone avec les exemples fournis par le constructeur.
+-Intégration d’un module GPS. 
+-Intégrer une caméra embarquée pour faire de la reconnaissance des objets.
+-Faire déplacer le drone d’un point A un point B à l’aide du module GPS.
+-Ajout d’une application mobile pour contrôler le drone.
+-Faire communiquer deux drones (facultatif)
